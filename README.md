@@ -1,11 +1,11 @@
 ## Hi👋!, I,m HARSHITHA MOHAN
 
-
+<1--
 **harshi2520/harshi2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...![image](https://github.com/user-attachments/assets/b348d41c-c0d7-4bb5-94b8-8d4f1a4b1c76)
+- 🔭 I’m currently working on ...!
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
