@@ -1,7 +1,15 @@
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" alt="Data analysis" height="300" width="100%"/>
-</div>
+<div align="center" style="position: relative; display: inline-block; width: 100%; max-width: 800px;">
 
+  <!-- Banner Image -->
+  <img src="https://your-banner-image-link.com" alt="Banner" style="width: 100%; border-radius: 12px;" />
+
+  <!-- Overlay Text -->
+  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
+    <h2 style="color: #fff; font-size: 2.2em; font-weight: bold; text-shadow: 2px 2px 4px #000;">Data Analyst</h2>
+    <h3 style="color: #facc15; font-size: 1.5em; font-weight: bold; text-shadow: 1px 1px 3px #000;">Frontend Developer</h3>
+  </div>
+
+</div>
 ###
 
 <div align="center">
