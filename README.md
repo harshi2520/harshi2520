@@ -12,7 +12,7 @@
     align-items: center;
     padding-left: 5%;
     color: #ffffff;
-    font-size: 2em;
+    font-size: 20em;
     font-weight: bold;
     font-family: 'Segoe UI', sans-serif;
   ">
