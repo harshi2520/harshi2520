@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg" 
        alt="Data analysis banner" 
-       style="width: 100%; height: 50%; object-fit: cover; filter: brightness(0.4);" />
+       style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4);" />
 
   <div style="
     position: absolute;
