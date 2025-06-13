@@ -1,30 +1,19 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://www.linkedin.com/in/harshitha-m-7145a2244/" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  ## Hi👋!, I,m HARSHITHA
 
-🌟 Current Focus: Passionate about data analysis and full-stack development, I'm actively applying my skills to real-world projects while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.</h3>
+🌟 Current Focus: Passionate about data analysis and full-stack development, I'm actively applying my skills to real-world projects while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.
+
+🛠️ Skills: Skilled in React.js, JavaScript, SQL, Python, Power BI, and Excel. Experienced with Firebase, PostgreSQL, and full-stack development using TypeScript and Express.js.
+
+📊 Projects & Interests:
+
+Developed Travel Green, a carbon-credit marketplace using Next.js, Firebase, and Flutter.
+Created interactive dashboards for sales data insights using Excel, Power Query, and Power BI.
+Built Terror-Bot, an AI-powered face detection and classification system.
+Strong interest in AI, cloud computing, and data-driven systems.
+
+🎯 Goals:
+Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
+Long-term: Advance my career in data analytics and product-oriented frontend development by taking on more complex, real-world challenges and leading solution-driven initiatives.</h3>
 
 ###
 
