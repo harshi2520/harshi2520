@@ -1,5 +1,5 @@
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
-  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" 
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg" 
        alt="Data analysis banner" 
        style="width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4);" />
 
