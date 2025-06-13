@@ -9,7 +9,7 @@
     left: 20px;
     transform: translateY(-50%);
     color: white;
-    font-size: 28px;
+    font-size: 40px;
     font-weight: bold;
     font-family: 'Segoe UI', sans-serif;
     text-shadow: 1px 1px 4px #000;
