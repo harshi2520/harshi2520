@@ -16,16 +16,15 @@
   ">
     <div style="font-size: 60px; font-weight: bold;">Data Analyst</div>
 
+  <div style="margin-top: 10px;">
 
-    <div style="margin-top: 10px;">
-
-      <a href="mailto:harshitham2516@gmail.com" style="color: white; text-decoration: none; display: flex; align-items: center; margin-bottom: 6px;">
+  <a href="mailto:harshitham2516@gmail.com" style="color: white; text-decoration: none; display: flex; align-items: center; margin-bottom: 6px;">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="18" style="margin-right: 8px;" />
         hmohan2516@gmail.com
       </a>
 
    
-      <a href="https://www.linkedin.com/in/yourprofile" style="color: white; text-decoration: none; display: flex; align-items: center;">
+   <a href="https://www.linkedin.com/in/yourprofile" style="color: white; text-decoration: none; display: flex; align-items: center;">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" style="margin-right: 8px;" />
         linkedin.com/in/yourprofile
       </a>
