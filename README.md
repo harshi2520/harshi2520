@@ -10,7 +10,7 @@
     background-color: rgba(0, 0, 0, 0.4); 
     display: flex;
     align-items: center;
-    padding-left: 5%;
+    padding-left: 10%;
     color: #ffffff;
     font-size: 20em;
     font-weight: bold;
