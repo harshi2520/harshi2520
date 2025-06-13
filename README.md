@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="350" src="https://t4.ftcdn.net/jpg/06/44/10/27/360_F_644102790_xU44JCmu0oJdc1dyUiVBbxEXhOu76XuM.jpg"
-  />
+  <img src="https://i.pinimg.com/736x/20/c1/f8/20c1f863f10fcc8c72d2ec38860b8b98.jpg" alt="Data analysis" width="100%"/>
 </div>
 
 ###
