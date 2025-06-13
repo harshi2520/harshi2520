@@ -3,22 +3,6 @@
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4);" />
 
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50px;
-    transform: translateY(-50%);
-    font-size: 42px;
-    font-weight: 900;
-    color: white;
-    font-family: 'Segoe UI', sans-serif;
-    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
-    letter-spacing: 2px;
-  ">
-    Data analysis
-  </div>
-</div>
-
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
