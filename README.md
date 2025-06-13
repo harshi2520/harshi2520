@@ -53,7 +53,7 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/b22e0011-077d-4a2a-b7be-cb6919ab421e" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src=https://github.com/user-attachments/assets/0b90162a-2f53-4061-a1f1-e67b545a5274" height="40" alt="React logo"  />
+  <img src="https://github.com/user-attachments/assets/0b90162a-2f53-4061-a1f1-e67b545a5274"  height="40" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
