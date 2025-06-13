@@ -1,24 +1,52 @@
-<h3 align="left">👩‍💻  ## Hi👋!, I,m HARSHITHA
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-
-🌟 Current Focus: Passionate about data analysis and full-stack development, I'm actively applying my skills to real-world projects while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.
-
-🛠️ Skills: Skilled in React.js, JavaScript, SQL, Python, Power BI, and Excel. Experienced with Firebase, PostgreSQL, and full-stack development using TypeScript and Express.js.
-
-📊 Projects & Interests:
-
-- Developed Travel Green, a carbon-credit marketplace using Next.js, Firebase, and Flutter.
-- Created interactive dashboards for sales data insights using Excel, Power Query, and Power BI.
-- Built Terror-Bot, an AI-powered face detection and classification system.
-- Strong interest in AI, cloud computing, and data-driven systems.
-
-🎯 Goals:
-Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
-Long-term: Advance my career in data analytics and product-oriented frontend development by taking on more complex, real-world challenges and leading solution-driven initiatives.</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🌟 Current Focus: I'm currently focused on data analysis and frontend development while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.
+
+🛠️ Skills: Proficient in React.js, JavaScript, SQL, Python, Firebase, Power BI, Excel, and full-stack tools like TypeScript and Express.js. Comfortable working with real-time databases and building interactive dashboards.
+
+📊 Projects & Interests:
+
+Built Travel Green, a carbon-credit tracking platform using Next.js, Firebase, and Flutter.
+
+Created dynamic E-commerce sales dashboards and performed data analysis on 9,000+ orders.
+
+Designed Terror-Bot, a face-detection system using embedded C and Python.
+
+Strong interest in data visualization, reporting, and user-centric web interfaces.
+
+🎯 Goals:
+Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
+Long-term: Advance my career in data analytics and product-oriented frontend development by taking on more complex, real-world challenges and leading solution-driven initiatives.</p>
 
 ###
 
@@ -58,41 +86,3 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
 
 ###
 
-
-
-
-## Hi👋!, I,m HARSHITHA
-
-🌟 Current Focus: Passionate about data analysis and full-stack development, I'm actively applying my skills to real-world projects while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.
-
-🛠️ Skills: Skilled in React.js, JavaScript, SQL, Python, Power BI, and Excel. Experienced with Firebase, PostgreSQL, and full-stack development using TypeScript and Express.js.
-
-📊 Projects & Interests:
-
-Developed Travel Green, a carbon-credit marketplace using Next.js, Firebase, and Flutter.
-
-Created interactive dashboards for sales data insights using Excel, Power Query, and Power BI.
-
-Built Terror-Bot, an AI-powered face detection and classification system.
-
-Strong interest in AI, cloud computing, and data-driven systems.
-
-🎯 Goals:
-Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
-Long-term: Advance my career in data analytics and product-oriented frontend development by taking on more complex, real-world challenges and leading solution-driven initiatives.
-
-<!--
-**harshi2520/harshi2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...!
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
