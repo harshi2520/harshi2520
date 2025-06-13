@@ -1,6 +1,24 @@
-<p align="center">
-  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" alt="Data analysis banner" height="250" width="100%"/>
-</p>
+<div align="center" style="position: relative; width: 100%;">
+  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" alt="Data analysis banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;" />
+  
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4); 
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+    color: #ffffff;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+  ">
+    Data Analyst
+  </div>
+</div>
 
 
 <div align="center">
