@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/20/c1/f8/20c1f863f10fcc8c72d2ec38860b8b98.jpg" alt="Data analysis" height="250" width="100%"/>
+  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" alt="Data analysis" height="250" width="100%"/>
 </div>
 
 ###
