@@ -22,7 +22,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  ## Hi👋!, I,m HARSHITHA
+
+🌟 Current Focus: Passionate about data analysis and full-stack development, I'm actively applying my skills to real-world projects while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.</h3>
 
 ###
 
