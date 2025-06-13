@@ -6,10 +6,10 @@
 
 📊 Projects & Interests:
 
-Developed Travel Green, a carbon-credit marketplace using Next.js, Firebase, and Flutter.
-Created interactive dashboards for sales data insights using Excel, Power Query, and Power BI.
-Built Terror-Bot, an AI-powered face detection and classification system.
-Strong interest in AI, cloud computing, and data-driven systems.
+- Developed Travel Green, a carbon-credit marketplace using Next.js, Firebase, and Flutter.
+- Created interactive dashboards for sales data insights using Excel, Power Query, and Power BI.
+- Built Terror-Bot, an AI-powered face detection and classification system.
+- Strong interest in AI, cloud computing, and data-driven systems.
 
 🎯 Goals:
 Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
