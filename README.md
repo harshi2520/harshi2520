@@ -47,13 +47,13 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/ff44fbb8-5c4f-4cfa-8999-b1e4426bbf24" height="40" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://github.com/user-attachments/assets/ed6ebcaa-ca91-4579-b4d5-d7f66617e3b9" height="40" alt="Power BI logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://github.com/user-attachments/assets/25f546e2-be53-4e8f-8852-bfb4b169b460" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://github.com/user-attachments/assets/b22e0011-077d-4a2a-b7be-cb6919ab421e" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src=https://github.com/user-attachments/assets/0b90162a-2f53-4061-a1f1-e67b545a5274" height="40" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
