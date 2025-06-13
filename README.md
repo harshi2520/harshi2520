@@ -2,10 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
@@ -36,13 +32,10 @@
 
 📊 Projects & Interests:
 
-Built Travel Green, a carbon-credit tracking platform using Next.js, Firebase, and Flutter.
-
-Created dynamic E-commerce sales dashboards and performed data analysis on 9,000+ orders.
-
-Designed Terror-Bot, a face-detection system using embedded C and Python.
-
-Strong interest in data visualization, reporting, and user-centric web interfaces.
+- Built Travel Green, a carbon-credit tracking platform using Next.js, Firebase, and Flutter.
+- Created dynamic E-commerce sales dashboards and performed data analysis on 9,000+ orders.
+- Designed Terror-Bot, a face-detection system using embedded C and Python.
+- Strong interest in data visualization, reporting, and user-centric web interfaces.
 
 🎯 Goals:
 Short-term: Gain hands-on experience as a Data Analyst or Frontend Developer, contribute to impactful projects, and complete my graduate studies.
