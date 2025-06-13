@@ -1,25 +1,24 @@
 <div align="center" style="position: relative; width: 100%;">
-  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" alt="Data analysis banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;" />
+  <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" 
+       alt="Data analysis banner" 
+       style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;" />
   
   <div style="
     position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.4); 
-    display: flex;
-    align-items: center;
-    padding-left: 10%;
-    color: #ffffff;
-    font-size: 20em;
+    top: 50%;
+    left: 5%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    padding: 10px 20px;
+    font-size: 28px;
     font-weight: bold;
+    border-radius: 8px;
     font-family: 'Segoe UI', sans-serif;
   ">
     Data Analyst
   </div>
 </div>
-
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
