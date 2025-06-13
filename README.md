@@ -1,5 +1,5 @@
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg" 
+  <img src="https://github.com/user-attachments/assets/d4ccf83b-bc4c-412e-b870-6e1d01a6ce0e" 
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4);" />
 
