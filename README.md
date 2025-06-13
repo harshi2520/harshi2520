@@ -45,7 +45,7 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
 <div align="left">
   <img src="https://github.com/user-attachments/assets/52fb62d9-9621-4739-8cee-392f535fbb24" height="40" alt="SQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/user-attachments/assets/ff44fbb8-5c4f-4cfa-8999-b1e4426bbf24" height="40" alt="Excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
