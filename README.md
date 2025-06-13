@@ -1,23 +1,24 @@
-<div style="position: relative; width: 100%; height: 250px;">
+<div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
   <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=612x612&w=0&k=20&c=tFcJnBIWlkPhIumrPtkSJwFRNDMtdVfJ1CYbfUlx5fE=" 
        alt="Data analysis banner" 
-       style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;" />
-  
+       style="width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4);" />
+
   <div style="
     position: absolute;
     top: 50%;
-    left: 30px;
+    left: 50px;
     transform: translateY(-50%);
-    color: white;
-    font-size: 36px;
+    font-size: 42px;
     font-weight: 900;
+    color: white;
     font-family: 'Segoe UI', sans-serif;
-    text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
-    letter-spacing: 1px;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
+    letter-spacing: 2px;
   ">
-    Data Analyst
+    Data analysis
   </div>
 </div>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
