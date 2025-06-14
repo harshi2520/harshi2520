@@ -67,6 +67,7 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
 ###
 
 <h3 align="left"> My Highlights 🌟 :</h3>
+
 - Travel Green (Next.js, Firebase, Flutter): Developed and deployed a full-stack carbon-credit tracking app with optimized load times (↓30%), 99% backend uptime, and 95% onboarding success. Integrated Google Maps for 90%+ navigation accuracy.
 
 
