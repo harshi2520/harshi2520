@@ -55,11 +55,11 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/0b90162a-2f53-4061-a1f1-e67b545a5274"  height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://github.com/user-attachments/assets/573471cd-9863-43ac-acc6-eb85750b30e6" height="40" alt="Data Visualization logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://github.com/user-attachments/assets/195c2b5c-19ce-4f65-b2f7-09e1b1716f4b" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://github.com/user-attachments/assets/3d3dc0ac-eb19-47d4-89cf-9099d24738c5" height="40" alt="Tableau logo"  />
 </div>
 
 ###
