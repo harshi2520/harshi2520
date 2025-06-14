@@ -1,5 +1,6 @@
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/d4ccf83b-bc4c-412e-b870-6e1d01a6ce0e" 
+  <img src="https://github.com/user-attachments/assets/a08135e2-b746-4892-9f9b-45274ed99a07" />
+" 
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4);" />
 
