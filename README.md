@@ -23,7 +23,7 @@
 
 <p align="left">🌟 Current Focus: I'm currently focused on data analysis and frontend development while pursuing my Master’s in Computer and Information Sciences at Florida Atlantic University.
 
-🛠️ Skills: Proficient in React.js, JavaScript, SQL, Python, Firebase, Power BI, Excel, and full-stack tools like TypeScript and Express.js. Comfortable working with real-time databases and building interactive dashboards.
+🛠️ Skills: Proficient in  Power BI, Excel, SQL, Python, Java, React.js, HTML, CSS, JavaScript, Firebase, and full-stack tools like TypeScript and Express.js. Comfortable working with real-time databases and building interactive dashboards.
 
 📊 Projects & Interests:
 
@@ -49,6 +49,7 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/ed6ebcaa-ca91-4579-b4d5-d7f66617e3b9" height="40" alt="Power BI logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/3d3dc0ac-eb19-47d4-89cf-9099d24738c5" height="40" alt="Tableau logo"  />
   <img src="https://github.com/user-attachments/assets/25f546e2-be53-4e8f-8852-bfb4b169b460" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/b22e0011-077d-4a2a-b7be-cb6919ab421e" height="40" alt="Java logo"  />
