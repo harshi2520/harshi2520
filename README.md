@@ -50,6 +50,7 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
   <img src="https://github.com/user-attachments/assets/ed6ebcaa-ca91-4579-b4d5-d7f66617e3b9" height="40" alt="Power BI logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/3d3dc0ac-eb19-47d4-89cf-9099d24738c5" height="40" alt="Tableau logo"  />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/25f546e2-be53-4e8f-8852-bfb4b169b460" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/b22e0011-077d-4a2a-b7be-cb6919ab421e" height="40" alt="Java logo"  />
