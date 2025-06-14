@@ -66,7 +66,11 @@ Long-term: Advance my career in data analytics and product-oriented frontend dev
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Highlights :</h3>
+- Travel Green (Next.js, Firebase, Flutter): Developed and deployed a full-stack carbon-credit tracking app with optimized load times (↓30%), 99% backend uptime, and 95% onboarding success. Integrated Google Maps for 90%+ navigation accuracy.
+
+- Healthcare Data Analysis (Excel, SQL, Power BI): Analyzed 9,200+ ER visits to uncover patient trends, reduce wait times by 20%, and boost resource efficiency by 10%. Delivered interactive dashboards driving 95%+ staffing accuracy.
+
 
 ###
 
