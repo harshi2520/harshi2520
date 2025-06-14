@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center"> Hey there 👋 </h3>
+<h1 align="center" style="font-size: 36px;"> Hey there 👋 </h1>
 
 ###
 
