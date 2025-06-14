@@ -6,7 +6,10 @@
 
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/harshitha-m-7145a2244/" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/harshitha-m-7145a2244/" style="color: white; text-decoration: none; display: flex; align-items: center;">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+        Linkedin
+      </a>
 </div>
 
 ###
