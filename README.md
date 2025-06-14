@@ -1,17 +1,8 @@
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/a08135e2-b746-4892-9f9b-45274ed99a07" 
+  <img src="https://github.com/user-attachments/assets/9964ef21-c254-4d7b-8885-93500b7ea3f4" 
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4); />
 
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshitha-m-7145a2244/" style="color: white; text-decoration: none; display: flex; align-items: center;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" align="center" />
-      </a>
-</div>
-
-###
 
 ###
 
