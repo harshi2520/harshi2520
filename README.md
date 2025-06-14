@@ -1,4 +1,4 @@
-<div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 8px;">
+<div style="position: relative; width: 100%; height: 300px; overflow: hidden; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/9964ef21-c254-4d7b-8885-93500b7ea3f4" 
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4); />
