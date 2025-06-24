@@ -2,10 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9964ef21-c254-4d7b-8885-93500b7ea3f4" 
        alt="Data analysis banner" 
        style="width: 100%; height: 30%; object-fit: cover; filter: brightness(0.4); />
-  <a href="https://www.linkedin.com/in/harshitha-m-7145a2244/" style="color: white; text-decoration: none; display: flex; align-items: center;">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" style="margin-right: 8px;" />
-        Harshitham
-      </a>
+
 
 <div align="center">
  
